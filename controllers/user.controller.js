@@ -1,3 +1,3 @@
 export const test = (req, res) => {
-  res.send("RAJESH");
+  res.send("Api route is working!");
 };
